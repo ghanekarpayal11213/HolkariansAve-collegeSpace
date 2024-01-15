@@ -2227,7 +2227,6 @@ background: #00F3FF;
   top: 110px;
 }
 /* terms css */
-
 .terms .leftbar {
   max-width: 420px;
   width: 100%;
@@ -2473,8 +2472,8 @@ footer{
   width: 32cm;
 }
 .foot-panel1{
-  background-color: #102447;
-  
+  background-color: #23436b;
+  color:#f3f3f3;
   height: 50px;
   color:white ;
   display: flex;
@@ -2502,7 +2501,6 @@ footer{
 }
 ul{
   margin-top: 20px;
-  background-color: #102447;
 }
 ul a{
   display:block;
@@ -2512,7 +2510,7 @@ ul a{
 }
 
 .foot-panel3{
-   background-color: #222f3d;
+   background-color:#1d3756;
    color: white;
    border-top: 0.5px solid white;
    height: 70px;
@@ -2528,7 +2526,7 @@ ul a{
 
 /**panel4**/
 .foot-panel4{
-  background-color: #0f1111;
+  background-color: #090e0e;
   height: 100px;
   color: #f3f3f3;
   font-size: 0.7rem;
